@@ -192,3 +192,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# LMS
+LMS-DataStuff/
+
+credits.csv
+keywords.csv
+movies_metadata.csv
+ratings.csv
