@@ -76,7 +76,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+
 
 # IPython
 profile_default/
@@ -192,3 +192,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# LMS
+LMS-DataStuff/
+
+.DS_Store
