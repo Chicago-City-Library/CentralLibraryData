@@ -202,3 +202,20 @@ movies_metadata.csv
 ratings.csv
 
 .ipynb_checkpoints
+music_cleaned.csv
+music_cleaned.json
+music_data_analysis.ipynb
+pg_catalog.csv
+tcc_ceds_music.csv
+trove-periodicals-data-main
+movies-archive
+HakeemsPipelineOne
+PipelineFourHG 
+PipelineThreeHG
+PipelineTwoHG
+build_clean_dataset.py
+changes.jsonl
+review-queue.csv
+trove-periodicals-clean.schema.json
+verify.py
+
