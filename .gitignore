@@ -76,7 +76,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+
 
 # IPython
 profile_default/
@@ -196,6 +196,7 @@ cython_debug/
 # LMS
 LMS-DataStuff/
 
+.DS_Store
 credits.csv
 keywords.csv
 movies_metadata.csv
