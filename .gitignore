@@ -193,6 +193,15 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# LMS
+LMS-DataStuff/
+
+credits.csv
+keywords.csv
+movies_metadata.csv
+ratings.csv
+
+.ipynb_checkpoints
 music_cleaned.csv
 music_cleaned.json
 music_data_analysis.ipynb
